@@ -3,7 +3,7 @@ A machine learning to find lego bricks
 Topic: Miscellaneous 
 
 
-##Implementing Our Project
+## Implementing Our Project
 
 
 For the project, we unfortunately do not have the time to train a machine learning model capable of identifying all LEGO parts out there. Therefore, We have decided that we will create a scalable AI model that could identify at least one lego part as a proof of concept. 
