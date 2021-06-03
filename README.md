@@ -22,8 +22,7 @@ With the blender application, we wrote a script to generate data with a 3D model
 Dataset: 
 
 
-
-## Machine Learning model##
+## Machine Learning model
 
 
 
