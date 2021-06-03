@@ -19,7 +19,7 @@ The 3D file can be found inside the synthetic data folder
 
 With the blender application, we wrote a script to generate data with a 3D model of a gear. 
 
-Dataset: 
+Dataset: https://drive.google.com/drive/folders/1rO6Gt2YgV3EJcvq5wpVG2PDQylUjP6b-?usp=sharing
 
 
 ## Machine Learning model
