@@ -1,6 +1,7 @@
 # AIWinpetition
 A machine learning to find lego bricks
-Topic: Miscellaneous 
+
+opic: Miscellaneous 
 
 
 ## Implementing Our Project
